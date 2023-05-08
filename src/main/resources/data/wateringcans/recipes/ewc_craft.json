@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "345"
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "3": {
+      "item": "minecraft:emerald_block"
+    },
+    "4": {
+      "item": "minecraft:emerald_block"
+    },
+    "5": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "wateringcans:emerald_watering_cans",
+    "count": 1
+  }
+}
